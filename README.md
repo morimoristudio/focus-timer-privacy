@@ -1,4 +1,3 @@
-フォーカスタイマーのプライバシーポリシー
 プライバシーポリシー
 morimori studio（以下「開発元」）は、お客様のプライバシーを尊重します。
 
@@ -30,9 +29,9 @@ morimori studio（以下「開発元」）は、お客様のプライバシー�
 クラウドストレージ
 ユーザーアカウント
 接触
+
 開発元：morimori studio
 
-最終更新日：2026年8月
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
@@ -80,4 +79,3 @@ This application does not use:
 
 Developer: morimori studio
 
-Last updated: August 2026
