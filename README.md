@@ -34,7 +34,6 @@ These settings never leave your device.
 This application does not use:
 
 - Analytics
-- Advertising
 - Cloud storage
 - User accounts
 
